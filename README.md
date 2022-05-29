@@ -1,6 +1,6 @@
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=ronnyc98&label=Profile%20views&color=0e75b6&style=flat" alt="ronnyc98" /> </p>
 
-[![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-0e76a8?style=flat-square&logo=Linkedin&logoColor=white)]([https://linkedin.com/in/iampavangandhi](https://www.linkedin.com/in/ronny-collaguazo/))
+[![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-0e76a8?style=flat-square&logo=Linkedin&logoColor=white)]([https://www.linkedin.com/in/ronny-collaguazo/](https://www.linkedin.com/in/ronny-collaguazo/))
 
 
 <h1 align="center">
