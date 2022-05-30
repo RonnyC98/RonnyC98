@@ -20,7 +20,7 @@
 <p align="center">- 🌱 I’m currently learning **Swift and Kotlin**</p>
 
 <!--Languages-->
-<h2 align="center">Languages and Tools:</h2>
+<h2 align="center">🔥 Languages and Tools 🔥</h2>
 <p align="center"> 
   <a href="https://developer.android.com" target="_blank" rel="noreferrer"> 
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/android/android-original-wordmark.svg" alt="android" width="40" height="40"/> 
@@ -68,7 +68,8 @@
 <h2 align="center">⚡ Stats ⚡</h2>
 <br>
 <div align=center>
-  <p>&nbsp;<img src="https://github-readme-stats.vercel.app/api?username=ronnyc98&show_icons=true&locale=en" alt="ronnyc98" /></p>
-  <p><img src="https://github-readme-stats.vercel.app/api/top-langs?username=ronnyc98&show_icons=true&locale=en&layout=compact" alt="ronnyc98" /></p>
-
+  <p>&nbsp;<img src="https://github-readme-stats.vercel.app/api?username=ronnyc98&show_icons=true&locale=en&theme=dark" alt="ronnyc98" /></p>
+  <p><img src="https://github-readme-stats.vercel.app/api/top-langs?username=ronnyc98&show_icons=true&locale=en&layout=compact&theme=dark" alt="ronnyc98" /></p>
 </div>
+
+<!--Credits to zumrudu-anka-->
