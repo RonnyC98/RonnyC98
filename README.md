@@ -66,7 +66,6 @@
 
 <!--Stats-->
 <h2 align="center">⚡ Stats ⚡</h2>
-<br>
 <div align=center>
   <p>&nbsp;<img src="https://github-readme-stats.vercel.app/api?username=ronnyc98&show_icons=true&locale=en&theme=dark" alt="ronnyc98" /></p>
   <p><img src="https://github-readme-stats.vercel.app/api/top-langs?username=ronnyc98&show_icons=true&locale=en&layout=compact&theme=dark" alt="ronnyc98" /></p>
